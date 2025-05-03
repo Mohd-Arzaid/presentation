@@ -103,7 +103,7 @@ const Presentation = () => {
       </h2>
       <div className="flex items-center gap-2 text-xl text-gray-600 mb-12">
         <span>Presented by :</span>
-        <span className="font-semibold">Abhay Raj Kashyap , Mohd Arzaid & Abhishek Rathore</span>
+        <span className="font-semibold">Abhay Raj Kashyap & Mohd Arzaid </span>
       </div>
       <div className="absolute bottom-8 animate-bounce">
         <ArrowRight className="w-6 h-6 text-gray-400" />
